@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer | 🖥️ MCA Graduate | 💻 Passionate Coder
 
-Welcome to my GitHub! I'm a **Full-Stack Developer** with expertise in **MERN STACK**, **PHP**,, **Laravel** **Python**, **MySQL**, **JavaScript**, **jQuery**,, **Oracle** and **Data Structures & Algorithms (DSA)**. Currently, I'm working on exciting projects like a **Property Booking Platform** and a **University Resource Management System** to solve real-world problems and enhance user experiences.
+Welcome to my GitHub! I'm a **Full-Stack Developer** with expertise in **MERN STACK**, **PHP**,, **Laravel** **Python**, **MySQL**, **JavaScript**, **jQuery**,, **Oracle** and **Data Structures & Algorithms (DSA)**. Currently, I'm working on exciting projects like a   **University Resource Management System** and a **Citizen Journalism and Social Community Platform** to solve real-world problems and enhance user experiences.
 
 ---
 
